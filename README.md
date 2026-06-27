@@ -1,2 +1,2 @@
-# Phameasy
+# PharmEase
 Pharmaceutical Mart 
